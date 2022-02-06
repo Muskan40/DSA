@@ -29,14 +29,14 @@
 - <h5>subset problem using tabulation</h5>
 - <h5>count total number of subset for a given sum</h5>
 - <h5>minimum subset sum difference</h5>
----
+
 <h1>Unbounded Knapsack variations</h1>
 -------------------------------------------------------------------
 - <h5>unbounded knapsakc problem</h5>
 - <h5>rod cutting problem</h5>
 - <h5>total number of ways to make a coin</h5>
 - <h5>minimum coins needed to make a coin</h5>
----
+
 <h1>Longest common subsequence variations</h1>
 -------------------------------------------------------------------
 - <h5>longest common subsequence using recursion</h5>
