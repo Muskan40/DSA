@@ -19,7 +19,7 @@
 - <h5>Bottom view</h5>
 - <h5>rootTonodepath in binary tree</h5>
 - <h5>Lowest common ancestor</h5>
----
+
 <h1>Bounded knapsack variations</h1>
 -------------------------------------------------------------------
 - <h5>0/1 knapsack problem using recursion</h5>
